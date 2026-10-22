@@ -15,6 +15,8 @@ import org.mapstruct.Mappings;
 /**
  *
  * @author sotobotero
+ * 
+ * Cambios en Mapper
  */
 @Mapper(componentModel = "spring")
 public interface InvoiceRequestMapper {
